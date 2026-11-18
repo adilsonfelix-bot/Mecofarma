@@ -1,0 +1,6 @@
+{
+  "name": "Livraria Meridiano — Catálogo Online e Gestão de Vendas",
+  "description": "Sistema completo de livraria com catálogo editorial online, carrinho de compras, rastreamento de pedidos e painel de gerenciamento de vendas e estoque.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
